@@ -1,0 +1,23 @@
+CMakeFiles/cmsis-nn.dir/Source/NNSupportFunctions/arm_nn_vec_mat_mult_t_s16.c.obj: \
+ D:\Documents\WorkSpace\CMSIS-NN-Lib_PC_test\CMSIS-NN\Source\NNSupportFunctions\arm_nn_vec_mat_mult_t_s16.c \
+ D:/Documents/WorkSpace/CMSIS-NN-Lib_PC_test/CMSIS-NN/Include/arm_nnsupportfunctions.h \
+ D:/Documents/WorkSpace/CMSIS-NN-Lib_PC_test/CMSIS-NN/Include/Internal/arm_nn_compiler.h \
+ D:/Professional/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdint.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/Professional/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stddef.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ D:/Documents/WorkSpace/CMSIS-NN-Lib_PC_test/CMSIS-NN/Include/arm_nn_math_types.h \
+ D:/Professional/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
+ D:/Professional/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/string.h \
+ D:/Professional/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:/Documents/WorkSpace/CMSIS-NN-Lib_PC_test/CMSIS-NN/Include/arm_nn_types.h \
+ D:/Professional/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdbool.h
